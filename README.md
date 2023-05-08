@@ -1,7 +1,5 @@
 # Spring Boot JMS example
 
-# Project Title
-
 Simple overview how to use JMS in Spring Boot 2.x.
 
 ## Description
