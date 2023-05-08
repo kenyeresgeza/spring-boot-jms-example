@@ -1,0 +1,8 @@
+com/example/artemisdemo/rest/MessageController.java
+ com.example.artemisdemo.rest.MessageController
+com/example/artemisdemo/sender/SimpleMessageSender.java
+ com.example.artemisdemo.sender.SimpleMessageSender
+com/example/artemisdemo/ArtemisdemoApplication.java
+ com.example.artemisdemo.ArtemisdemoApplication
+com/example/artemisdemo/consumer/SimpleConsumer.java
+ com.example.artemisdemo.consumer.SimpleConsumer
